@@ -1,0 +1,2 @@
+document.querySelector('#copyrightYear').innerText = "Copyright © ".concat(new Date().getFullYear(), " | Cody Bishop | Utah, United States");
+document.querySelector('#lastModified').innerHTML = document.lastModified;
