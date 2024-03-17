@@ -6,6 +6,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     --primary_Color: #9988B5;
     --Primary_Light: #CCB4F3;
     --Primary_Dark: #41394E;
@@ -96,4 +98,6 @@ nav a:hover {
 
 .Kalam {
     font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
