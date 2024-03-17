@@ -1,17 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Rock+Salt&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Madimi One", sans-serif;
     --colorA_Dark: #735151;
     --colorA_Light: #FFB2B2;
     --colorB_Dark: #497370;
     --colorB_Light: #ABF1EC;
     --colorC_Dark: #915C7E;
     --colorC_Light: #E59FCD;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
 
 header {
     margin: 0px 0px;

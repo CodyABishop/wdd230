@@ -68,7 +68,7 @@ nav a:hover {
     color: var(--Accent_Light);
 }
 
-#outlineItem {
+.outlineItem {
     border: 1px solid var(--primary_Color);
     background-color: var(--Primary_Light);
     border-radius: 10px;
@@ -76,12 +76,12 @@ nav a:hover {
     margin: 10px;
 }
 
-#outlineItem h2 {
+.outlineItem h2 {
     background-color: var(--Primary_Dark);
     color: #fff;
 }
 
-#outlineItemAccent {
+.outlineItemAccent {
     border: 1px solid var(--Accent_Color);
     background-color: var(--Accent_Light);
     border-radius: 10px;
@@ -89,11 +89,11 @@ nav a:hover {
     margin: 10px;
 }
 
-#outlineItemAccent h2 {
+.outlineItemAccent h2 {
     background-color: var(--Accent_Dark);
     color: #fff;
 }
 
-#Kalam {
+.Kalam {
     font-family: "Kalam", cursive;
 }
